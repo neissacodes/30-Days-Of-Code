@@ -1,5 +1,6 @@
 # 30-Days-Of-Code
 Documenting my 30 Days of Coding experience.
+Learning Git&GitHub on Udemy: https://www.udemy.com/course/git-expert-4-hours/
 
 Day 1
 I learned Git and its various commands:
