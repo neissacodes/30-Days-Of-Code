@@ -31,3 +31,8 @@ I continued on learning more about Git:
   ~ Moved in between branches using the checkout command
   ~ Edited branches
   ~ Merged branches
+  ~ GitHub
+  ~ Created a new remote repository
+  ~ Pulled/Pushed remotely and from a GitHub repository
+  ~ Deleted remote branches
+  
