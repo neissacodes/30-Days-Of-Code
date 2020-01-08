@@ -26,7 +26,7 @@ Day 3
 I continued on learning more about Git:
   ~ Revert
   ~ Reset 
-      Types of Reset: soft, middle, hard
+      Types of Reset: soft, mixed, hard
   ~ Created a .gitignore
   ~ Created a branch
   ~ Moved in between branches using the checkout command
@@ -36,4 +36,11 @@ I continued on learning more about Git:
   ~ Created a new remote repository
   ~ Pulled/Pushed remotely and from a GitHub repository
   ~ Deleted remote branches
+  
+Day 4 
+Finished Git&Github course on Udemy
+  ~ Learned SourceTree 
+  ~ Set up a new repository
+  ~ Created,removed, merged branches
+  ~ Pulled, and pushed requests
   
