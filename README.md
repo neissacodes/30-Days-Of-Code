@@ -58,3 +58,12 @@ Debugged code from the JPMVEI task 2
   ~ Learned Dictionaries, lists, tuples, sets, and operators
   ~ Played with Comparison Operators, and learned how to chain them
   
+Day 8
+Python 
+ ~ Learned how to use If-Else statements, while loops and for loops
+ ~ Finished today's course with some practice exercices
+R
+ ~ Learned how to install packages using R
+ ~ Installed ggplot, gapminder, and dplyr
+ ~ Used ggplot, ggsave, gapminder, and filter to visually represent the data I was working with
+ 
