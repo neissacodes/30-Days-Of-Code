@@ -44,3 +44,17 @@ Finished Git&Github course on Udemy
   ~ Created,removed, merged branches
   ~ Pulled, and pushed requests
   
+Day 5
+Started learning Python 3 on Udemy
+ ~ Set up my dev environment: Downloaded Python and Anaconda
+ ~ Learned: data types, numbers, variable assignments, strings, indexing, slicing, booleans
+ 
+Day 6
+Debugged code from the JPMVEI task 2
+ ~ Although I edited the Graph.tsx and App.tsx files, the graph is not showing
+ 
+ Day 7
+ Python
+  ~ Learned Dictionaries, lists, tuples, sets, and operators
+  ~ Played with Comparison Operators, and learned how to chain them
+  
