@@ -67,3 +67,8 @@ R
  ~ Installed ggplot, gapminder, and dplyr
  ~ Used ggplot, ggsave, gapminder, and filter to visually represent the data I was working with
  
+ Day 11
+ React
+ ~ Learned how to create React components
+ ~ Learned how to use D3 for Data Visualization projects
+ 
