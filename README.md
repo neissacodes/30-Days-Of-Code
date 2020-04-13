@@ -72,3 +72,10 @@ R
  ~ Learned how to create React components
  ~ Learned how to use D3 for Data Visualization projects
  
+ Day 12
+ React
+ ~ Finished the React course on Freecodecamp
+ ~ Starting the React course on Udemy
+ ~ Started the Coding Interview Course on Udemy: LinkedIn, Email, Portofolio and Resume
+ ~ Started the D3 course on freecodecamp
+  - select(), selectAll(), data(), enter(), append(), text(), style(), text((d) => d), attr(), added margin to a bar chart, svg node,       fill attribute, labels, hover effect, tootip, scatterplot using circles
