@@ -75,11 +75,12 @@ R
  Day 12
  React
  ~ Finished the React course on Freecodecamp
- ~ Starting the React course on Udemy
+ ~ Started the React course on Udemy
  ~ Started the Coding Interview Course on Udemy: LinkedIn, Email, Portofolio and Resume
  ~ Started the D3 course on freecodecamp
   - select(), selectAll(), data(), enter(), append(), text(), style(), text((d) => d), attr(), added margin to a bar chart, svg node,       fill attribute, labels, hover effect, tootip, scatterplot using circles
   
   Day 13
   D3
-  ~ Learning scale,  min and max, domain, range, padding, translate, and transform
+  ~ Learned scale,  min and max, domain, range, padding, translate, and transform
+  ~ Learned Big O on Udemy: O(1), O(n), O(a*b), O(n^2) 
