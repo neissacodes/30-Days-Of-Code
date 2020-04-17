@@ -84,3 +84,8 @@ R
   D3
   ~ Learned scale,  min and max, domain, range, padding, translate, and transform
   ~ Learned Big O on Udemy: O(1), O(n), O(a*b), O(n^2) 
+  
+  Day 14
+  Data Structures 
+  ~ Started Data Structures and Arrays on Udemy in "Master the Coding Interview"
+  ~ Reviewed SQL commands like view, backup and recovery
