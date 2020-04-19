@@ -89,3 +89,7 @@ R
   Data Structures 
   ~ Started Data Structures and Arrays on Udemy in "Master the Coding Interview"
   ~ Reviewed SQL commands like view, backup and recovery
+  
+  Day 15
+  SQL
+  ~ Call CSVREAD, CSVWRITE, Create View, Backup, Recovery
