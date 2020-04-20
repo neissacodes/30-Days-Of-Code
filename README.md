@@ -95,3 +95,6 @@ R
   ~ Call CSVREAD, CSVWRITE, Create View, Backup, Recovery
   
   Day 16
+  ~ Today I set up a youtube channel for AP Java contents: I worked on ArrayList and Methods
+  ~ Worked on Arrays on leetcode
+  
