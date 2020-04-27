@@ -101,3 +101,6 @@ R
   Day 17
   ~ Reviewing Bubble sort on Udemy and Java books!
   
+  Day 18 
+  ~ Reviewed SQL commands 
+  
