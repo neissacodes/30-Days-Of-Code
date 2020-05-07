@@ -104,3 +104,8 @@ R
   Day 18 
   ~ Reviewed SQL commands 
   
+  Day 19
+  ~ Learning Machine Learning on Udemy
+    -Installed dependencies, learned about supervised and unsupervised learning
+  
+  
