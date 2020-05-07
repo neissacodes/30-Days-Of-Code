@@ -107,5 +107,9 @@ R
   Day 19
   ~ Learning Machine Learning on Udemy
     -Installed dependencies, learned about supervised and unsupervised learning
+    
+  Day 20
+  ~ Reviewed Selection sort, Insertion sort, Hash Table on Udemy
+  ~ I started learning python recently and today I went over functions
   
   
