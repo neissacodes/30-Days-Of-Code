@@ -112,4 +112,8 @@ R
   ~ Reviewed Selection sort, Insertion sort, Hash Table on Udemy
   ~ I started learning python recently and today I went over functions
   
+  Day 21
+  ~ Reviewed functions,conditional properties, and loops in Python
+  
+  
   
