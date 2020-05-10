@@ -115,5 +115,8 @@ R
   Day 21
   ~ Reviewed functions,conditional properties, and loops in Python
   
+  Day 22
+  ~ File handling, documenting, packages and libraries in Python
+  
   
   
